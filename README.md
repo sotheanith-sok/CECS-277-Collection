@@ -6,7 +6,7 @@ A collection of assignments for the CECS 277 class.
 ## Prerequisites
  - [Java](https://www.oracle.com/java/technologies/javase-downloads.html)
 
-## Author
+## Authors
  - [Sotheanith Sok](https://github.com/sotheanith)
 
 ## Course
